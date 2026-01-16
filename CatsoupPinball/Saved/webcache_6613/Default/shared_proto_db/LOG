@@ -1,2 +1,3 @@
-2026/01/12-19:43:03.601 7a20 Creating DB C:\Tecnocampus\4T\T2\MotorsJocs\Jocs\catsoup-pinball\CatsoupPinball\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/01/12-19:43:03.612 7a20 Reusing MANIFEST C:\Tecnocampus\4T\T2\MotorsJocs\Jocs\catsoup-pinball\CatsoupPinball\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/01/15-16:39:52.266 43d8 Reusing MANIFEST C:\Tecnocampus\4T\T2\MotorsJocs\Jocs\catsoup-pinball\CatsoupPinball\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/01/15-16:39:52.283 43d8 Recovering log #3
+2026/01/15-16:39:52.285 43d8 Reusing old log C:\Tecnocampus\4T\T2\MotorsJocs\Jocs\catsoup-pinball\CatsoupPinball\Saved\webcache_6613\Default\shared_proto_db/000003.log 

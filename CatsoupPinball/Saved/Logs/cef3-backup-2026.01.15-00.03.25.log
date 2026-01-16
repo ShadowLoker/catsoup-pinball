@@ -1,0 +1,8 @@
+[11592:33552:0115/002054.446:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11592:33552:0115/002054.686:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11592:33552:0115/002101.386:ERROR:device_event_log_impl.cc(196)] [00:21:01.129] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[16764:27132:0115/002102.808:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DC6090BAE3682D7388340B25EEECDAFC will be ignored
+[11592:33552:0115/002700.824:ERROR:device_event_log_impl.cc(196)] [00:26:47.752] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[22228:32644:0115/010325.194:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0007
+[22228:32644:0115/010325.195:ERROR:shared_context_state.cc(1244)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[22228:32644:0115/010325.197:ERROR:gpu_service_impl.cc(1164)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
