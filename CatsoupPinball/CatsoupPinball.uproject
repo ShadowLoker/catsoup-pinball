@@ -19,5 +19,8 @@
 			"Name": "DatasmithImporter",
 			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Plugins"
 	]
 }

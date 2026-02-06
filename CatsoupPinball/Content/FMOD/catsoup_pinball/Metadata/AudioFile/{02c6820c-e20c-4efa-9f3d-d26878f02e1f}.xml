@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{02c6820c-e20c-4efa-9f3d-d26878f02e1f}">
+		<property name="assetPath">
+			<value>BallCollisions/BallCollision3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.021269841269841269</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b731eeeb-0eec-473a-a8db-6083e73dd196}</destination>
+		</relationship>
+	</object>
+</objects>
