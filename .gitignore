@@ -1,7 +1,6 @@
 # =========================
 # Unreal Engine
 # =========================
-Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
@@ -20,6 +19,15 @@ Saved/
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+
+# =========================
+# Visual Studio cache
+# =========================
+.vs/
+*.VC.db
+*.VC.opendb
+*.ipch
+*.pch
 
 # =========================
 # IDEs / Editors
