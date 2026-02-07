@@ -112,7 +112,11 @@
 	</object>
 	<object class="MixerBusFader" id="{cefc959a-e56a-4613-b6ae-9d7d54187966}" />
 	<object class="MixerBusFader" id="{8068a91a-f82b-49cd-80a5-db3b820440ac}" />
-	<object class="SpatialiserEffect" id="{4a5c2267-4d45-429f-bf78-91decc766f74}" />
+	<object class="SpatialiserEffect" id="{4a5c2267-4d45-429f-bf78-91decc766f74}">
+		<property name="distanceRolloffType">
+			<value>4</value>
+		</property>
+	</object>
 	<object class="SingleSound" id="{eb0835de-f9c2-4156-ad91-6c752c77a166}">
 		<relationship name="audioFile">
 			<destination>{31714cf3-17dc-48d3-9971-e369f7d57713}</destination>
