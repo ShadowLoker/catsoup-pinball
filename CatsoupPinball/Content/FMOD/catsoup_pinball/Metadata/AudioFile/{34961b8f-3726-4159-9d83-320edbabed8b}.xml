@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{34961b8f-3726-4159-9d83-320edbabed8b}">
+		<property name="assetPath">
+			<value>law-&amp;-order-full-theme-(high-quality)-made-with-Voicemod.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>45.024000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b731eeeb-0eec-473a-a8db-6083e73dd196}</destination>
+		</relationship>
+	</object>
+</objects>
