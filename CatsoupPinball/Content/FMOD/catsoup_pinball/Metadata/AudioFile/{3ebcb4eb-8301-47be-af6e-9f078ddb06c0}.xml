@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3ebcb4eb-8301-47be-af6e-9f078ddb06c0}">
+		<property name="assetPath">
+			<value>631560__josefpres__house-loops-118-only-bass-120-bpm.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b731eeeb-0eec-473a-a8db-6083e73dd196}</destination>
+		</relationship>
+	</object>
+</objects>
