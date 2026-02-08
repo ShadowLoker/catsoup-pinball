@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{13c58542-8ffe-4842-915d-a7bdaefd0e2f}">
+		<property name="assetPath">
+			<value>362205__taranp__horn_fail_wahwah_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.2775625000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b731eeeb-0eec-473a-a8db-6083e73dd196}</destination>
+		</relationship>
+	</object>
+</objects>
